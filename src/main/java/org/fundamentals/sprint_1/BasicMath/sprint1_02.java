@@ -1,4 +1,4 @@
-package org.fundamentals.sprint_1;
+package org.fundamentals.sprint_1.BasicMath;
 
 
 import java.util.Scanner;
